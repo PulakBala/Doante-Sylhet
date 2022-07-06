@@ -1,0 +1,181 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+body{
+    font-family: 'Bitter', serif;
+  
+}
+h1{
+    font-size: 30px;
+    color: black;
+}
+h3{
+    margin-top: 10px;
+}
+p{
+    margin-top: 20px;
+}
+
+.image{
+    background-image: url(images/pexels-photo-6471946.jpeg);
+    background-size: cover;
+    height: 400px;
+    
+ 
+}
+.container{
+    text-align: center;
+    padding-top: 120px;
+    color: rgb(247, 239, 239);
+    font-weight: 600;
+    
+}
+.container p{
+    font-size: 22px;
+    padding-top: 15px;
+}
+.container h1{
+    color: red;
+}
+.home-btn button{
+    margin-top: 56px;
+    width: 20%;
+    height: 32px;
+    background-color: aqua;
+}
+
+/* step-1 done */
+
+
+/* step-2 start  */
+
+.donate-today{
+    text-align: center;
+    margin-top: 70px;
+    padding: 30px;
+
+}
+
+.donate-money{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+.othertk{
+    margin-top: 50px;
+}
+.othertk h4{
+    text-decoration: underline;
+    color: grey;
+}
+#money{
+    box-sizing: border-box;
+    width: 15%;
+    height: 50%;
+    padding: 5px;
+    margin: 0;
+    border: 2px solid red;
+}
+
+/* step-2 done  */
+
+.our-donate-plan{
+    text-align: center;
+    margin-top: 70px;
+}
+.help-for-family{
+    display: flex;
+    margin-top: 60px;
+    padding: 0px 50px 75px;
+    justify-content: space-around;
+   
+    
+}
+.Food{
+    background-color: rgb(241, 140, 140);
+    padding: 10px;
+    margin-right: 14px;
+}
+.shelter{
+    background-color: bisque;
+    padding: 10px;
+    margin-right: 14px;
+}
+.education{
+    background-color: cadetblue;
+    padding: 10px;
+    margin-right: 14px;
+}
+/* step-3 done  */
+
+.poor-container{
+    display: flex;
+    background-color: lightcyan;
+    padding: 20px;
+}
+.poor-man img{
+    width: 400px;
+    height: 300px;
+    border-radius: 40px;
+    margin-right: 10px;
+}
+.our-goal{
+    text-align: center;
+}
+.list{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+/* step-4 done  */
+
+.bangladesh-map{
+    display: flex;
+    background-color: rgb(219, 219, 250);
+    margin-top: 70px;
+
+}
+.sylhet-map img{
+    width: 500px;
+    height: 300px;
+    margin-right: 20px;
+}
+.bangladesh-map h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+/* step-5 done  */
+
+.my-updates{
+    text-align: center;
+    margin-top: 70px;
+}
+.subscribe{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 25%;
+    padding: 50px 50px 50px;
+    background-color: blanchedalmond;
+    width: 40%;
+    height: 30px;
+    margin-bottom: 50px;
+    
+}
+
+.subscribe h5{
+    padding: 5px;
+    font-size: 18px;
+    background-color: aqua;
+    width: 30%;
+    height: 20px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 70px;
+    background-color: dimgray;
+    padding: 20px;
+}
