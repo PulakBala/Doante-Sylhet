@@ -18,8 +18,10 @@ p{
 }
 
 .image{
-    background-image: url(/images/pexels-photo-6471946.jpeg);
+    background-image: url(../images/pexels-photo-6471946.jpeg);
     background-size: cover;
+    background-position: top center;
+    position: relative;
     height: 400px;
     
  
